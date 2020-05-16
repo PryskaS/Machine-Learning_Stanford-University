@@ -34,8 +34,8 @@ Syllabus
   - [ ] Matrix Multiplication Properties
   - [ ] Inverse and Transpose
   
-  > [1 practice exercise]
-  > [Python Programming]
+  > 1. [1 practice exercise]
+  > 1. [Python Programming]
   
   ### Week 2
 ----------------------------------------------------------
