@@ -12,7 +12,7 @@
 
 Syllabus
 ----------------------------------------------------------
-### Week 1
+### [Week 1](https://github.com/PryskaS/Machine-Learning_Stanford-University/tree/master/01.%20Week)
 ----------------------------------------------------------
 - **Introduction**
   - [x] What is Machine Learning?
@@ -43,7 +43,7 @@ Syllabus
   > 1. [1 practice exercise]
   > 1. [Python Programming]
   
-  ### Week 2
+  ### [Week 2](https://github.com/PryskaS/Machine-Learning_Stanford-University/tree/master/02.%20Week)
 ----------------------------------------------------------
 - **Linear Regression with Multiple Variables**
   - [ ] Multiple Features
@@ -67,7 +67,7 @@ Syllabus
   
   > [1 practice exercise]
   
-  ### Week 3
+  ### [Week 3](https://github.com/PryskaS/Machine-Learning_Stanford-University/tree/master/03.%20Week)
 ----------------------------------------------------------
 - **Logistic Regression**
   - [ ] Classification
@@ -88,7 +88,7 @@ Syllabus
  
   > [1 practice exercise]
  
-  ### Week 4
+  ### [Week 4](https://github.com/PryskaS/Machine-Learning_Stanford-University/tree/master/04.%20Week)
 ----------------------------------------------------------
 - **Neural Networks: Representation**
   - [ ] Non-linear Hypotheses
@@ -101,7 +101,7 @@ Syllabus
 
   > [1 practice exercise]
   
-  ### Week 5
+  ### [Week 5](https://github.com/PryskaS/Machine-Learning_Stanford-University/tree/master/05.%20Week)
 ----------------------------------------------------------
 - **Neural Networks: Learning**
   - [ ] Cost Function
@@ -115,7 +115,7 @@ Syllabus
   
   > [1 practice exercise]
   
-  ### Week 6
+  ### [Week 6](https://github.com/PryskaS/Machine-Learning_Stanford-University/tree/master/06.%20Week)
 ----------------------------------------------------------
 - **Advice for Applying Machine Learning**
   - [ ] Deciding What to Try Next
@@ -137,7 +137,7 @@ Syllabus
   
   > [1 practice exercise]
   
-  ### Week 7
+  ### [Week 7](https://github.com/PryskaS/Machine-Learning_Stanford-University/tree/master/07.%20Week)
 ----------------------------------------------------------
 - **Support Vector Machines**
   - [ ] Optimization Objective
@@ -149,7 +149,7 @@ Syllabus
   
   > [1 practice exercise]
   
-  ### Week 8
+  ### [Week 8](https://github.com/PryskaS/Machine-Learning_Stanford-University/tree/master/08.%20Week)
 ----------------------------------------------------------
 - **Unsupervised Learning**
   - [ ] Unsupervised Learning: Introduction
@@ -171,7 +171,7 @@ Syllabus
   
   > [1 practice exercise]
   
-  ### Week 9
+  ### [Week 9](https://github.com/PryskaS/Machine-Learning_Stanford-University/tree/master/09.%20Week)
 ----------------------------------------------------------
 - **Anomaly Detection**
   - [ ] Problem Motivation
@@ -195,7 +195,7 @@ Syllabus
   
   > [1 practice exercise]
   
-  ### Week 10
+  ### [Week 10](https://github.com/PryskaS/Machine-Learning_Stanford-University/tree/master/10.%20Week)
 ----------------------------------------------------------
 - **Large Scale Machine Learning**
   - [ ] Learning With Large Datasets
@@ -208,7 +208,7 @@ Syllabus
   > [1 practice exercise]
   
   
-  ### Week 11
+  ### [Week 11](https://github.com/PryskaS/Machine-Learning_Stanford-University/tree/master/11.%20Week)
 ----------------------------------------------------------
 - **Application Example: Photo OCR**
   - [ ] Problem Description and Pipeline
