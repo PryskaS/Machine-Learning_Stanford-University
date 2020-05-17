@@ -1,5 +1,13 @@
-# Machine Learning Course
-## by Stanford University
+# ~~~~~~~~~~ Machine Learning Course ~~~~~~~~~~
+<p align="center">
+  <img width="500" height="130" src="https://github.com/PryskaS/Machine-Learning_Stanford-University/blob/master/images/coursera-logo.png">
+</p> 
+
+<p align="center">
+  <img width="234" height="70" src="https://github.com/PryskaS/Machine-Learning_Stanford-University/blob/master/images/stanford-logo.png">
+</p> 
+
+
 
 What is about course and instructor
 Machine Learning course offered by Stanford University at Coursera | Instructor: Andrew Ng
