@@ -9,8 +9,6 @@
 
 
 
-What is about course and instructor
-Machine Learning course offered by Stanford University at Coursera | Instructor: Andrew Ng
 
 Syllabus
 ----------------------------------------------------------
