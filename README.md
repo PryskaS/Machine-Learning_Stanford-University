@@ -1,4 +1,4 @@
-# ~~~~~~~~~~   Machine Learning Course   ~~~~~~~~~~
+# ~~~~~~~~~~~~ Machine Learning Course ~~~~~~~~~
 <p align="center">
   <img width="500" height="130" src="https://github.com/PryskaS/Machine-Learning_Stanford-University/blob/master/images/coursera-logo.png">
 </p> 
