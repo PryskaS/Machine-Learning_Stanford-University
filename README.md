@@ -1,11 +1,4 @@
 # Machine Learning Course
-<p align="center">
-  <img width="840" height="150" src="https://github.com/PryskaS/Machine-Learning_Stanford-University/blob/master/images/coursera-logo.png">
-</p> 
-
-<p align="center">
-  <img width="1664" height="356" src="https://github.com/PryskaS/Machine-Learning_Stanford-University/blob/master/images/stanford-logo.png">
-</p> 
 ## by Stanford University
 
 What is about course and instructor
