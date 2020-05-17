@@ -1,5 +1,5 @@
 - Summary of Key concepts
-- Link to exercices
+- Link to exercises
 - Organized Notebook
 
 
